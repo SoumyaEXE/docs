@@ -53,7 +53,8 @@ We do not allow content or activity on GitHub that:
 ## 4. Spam and Inauthentic Activity on GitHub
 We do not allow content or activity on GitHub that is:
 - automated excessive bulk activity and coordinated inauthentic activity, such as 
-   * spamming 
+   * Spamming 
+   * Scamming Software
    * cryptocurrency mining;
 * bulk distribution of promotions and advertising prohibited by GitHub terms and policies;
 * inauthentic interactions, such as fake accounts and automated inauthentic activity;
